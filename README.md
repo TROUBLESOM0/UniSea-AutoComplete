@@ -53,4 +53,5 @@ Style: Simple
 
    The application will not submit the form, so, you will have a chance to review before sending.  
    <!-- A license agreement is attached for information on what you CAN and CAN NOT do with the software. -->
+   I will try to provide updates for security purposes and fixes as they come up.
    
